@@ -294,5 +294,10 @@ body
 	background-color : #000016;
 	text-align : center;
 	font-size : 25px;
-	font-color : white;
+}
+
+.cpyright span
+{
+	color : white;
+	font-family : 'Hammersmith', sans-serif;
 }
