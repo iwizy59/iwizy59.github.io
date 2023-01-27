@@ -296,9 +296,16 @@ body
 	text-align : center;
 	font-size : 25px;
 }
-
-.cpyright span
+.cpyright-content
+{
+	align : center;
+}
+.cpyright-content span
 {
 	color : white;
 	font-family : 'Hammersmith', sans-serif;
 }
+.cpyright-content h1
+{
+	color : white;
+	text-transform : uppercase;
