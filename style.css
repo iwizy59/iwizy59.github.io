@@ -85,21 +85,9 @@ p
 }
 .homepage
 {
-	display : flex;
-	position : relative;
-	min-width : 100%;
-	width : 100%;
-	min-height : 100%;
-	height : auto;
-	margin : 0;
-	padding-top : 10%;
-	
+	display : flex;	
 	background : url(photo_bureau.jpg)no-repeat;
-	background-color : black;
-	background-position-x  : 0%;
-	background-position-y : 0%;
-	background-attachment : scroll;
-	background-size : 100%;
+
 	
 }
 
