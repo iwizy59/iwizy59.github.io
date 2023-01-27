@@ -33,6 +33,9 @@ nav .menu li
 	
 	
 }
+
+
+	
 nav .menu a
 {
 	font-family : Comic Sans MS, sans-serif;
@@ -284,4 +287,9 @@ body
 .nowraping
 {
 	white-space : nowrap;
+}
+
+.cpyright
+{
+	background : #000016;
 }
