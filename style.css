@@ -87,6 +87,8 @@ p
 {
 	display : flex;	
 	background : url(photo_bureau.jpeg)no-repeat;
+	background-max-width : 100%;
+	background-max-height : 100%;
 
 	
 }
