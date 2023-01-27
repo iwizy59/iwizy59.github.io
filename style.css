@@ -255,11 +255,6 @@ body
 	flex-direction : column;
 }
 
-.btn-contact-content
-{
-	padding-right : 10%;
-	padding-left : 10%;
-}
 .btn-contact i
 {
 	font-size : 40px;
