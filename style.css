@@ -291,6 +291,7 @@ body
 
 .cpyright
 {
+	display : flex;
 	background-color : #000016;
 	text-align : center;
 	font-size : 25px;
