@@ -97,9 +97,7 @@ p
 {
 	display : block;
 	color : white;
-	font-style : strong;
 	font-size : 50px;
-	z-index : 2;
 	font-family : 'Poppins', sans-serif ;
 }
 
@@ -129,11 +127,6 @@ body
 .espace above
 {
 	display : flex;
-}
-
-.gros_titre
-{
-	display : inline-block;
 }
 
 .col-gauche
@@ -178,12 +171,6 @@ body
 	font-family : 'Poppins', sans-serif;
 }
 
-.scroll_down
-{
-	padding-top : 10%;
-	height : 10%;
-	width : 10%;
-}
 
 .media-icons a
 {
@@ -211,15 +198,14 @@ body
 .main h2
 {
 	color : white;
-	font-style : strong;
-	font-family : 'Poppins' , sans-serif;
+	text-transform : uppercase;
+	font-family : 'Fjalla One' , sans-serif;
 	
 }
 
 .titre-gauche
 {
 
-	white-space : nowrap;
 	padding-right : 10%;
 }
 
@@ -257,10 +243,10 @@ body
 }
 
 .btn-contact{
+	display : flex;
 	padding : 50px 30px;
 	background-color : #fff;
 	border-style : solid;
-	border-color : #3a6cf4;
 	border-radius: 10px;
 	margin-right : 5%;
 	box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
