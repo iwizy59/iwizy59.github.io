@@ -258,11 +258,14 @@ body
 
 .btn-contact{
 	padding : 50px 30px;
-	background-color : white;
+	background-color : #fff;
 	border-style : solid;
 	border-color : #3a6cf4;
-	border-radius: 2em;
+	border-radius: 10px;
 	margin-right : 5%;
+	box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
+	align-items : center;
+	justify-content : center;
 }
 
 .btn-contact-content
