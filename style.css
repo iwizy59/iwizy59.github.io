@@ -67,7 +67,7 @@ p
 	font-size : 20px;
 	color : black;
 	text-align : justify;
-	font-family : 'Poppins' , sans-serif;
+	font-family : 'Hammersmith' , sans-serif;
 }
 .titre
 {
@@ -76,7 +76,7 @@ p
 	padding-right : 15%;
 	width : 70%;
 	color : #3a6cf4;
-	font-family : Comic Sans MS, sans-serif;
+	font-family : 'Fjalla One', sans-serif;
 	text-align : center;
 	text-decoration : underline ;
 	font-size : 30px;
@@ -234,12 +234,12 @@ body
 	display : flex;;
 	text-decoration : none;
 	padding : 3px 50%;
-	background-color : grey;
+	background-color : #badb81;
 	color : black;
 	font-family : 'Poppins', sans-serif;
-	border-color : black;
 	width : 100%;
-	
+	text-align : center;
+	border-radius : 2em;
 }
 
 .bar
@@ -247,6 +247,7 @@ body
 	display : inline-block;
 	white-space : nowrap;
 	width : 50%;
+	
 	
 }
 
