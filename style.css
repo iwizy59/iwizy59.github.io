@@ -200,6 +200,7 @@ body
 	color : white;
 	text-transform : uppercase;
 	font-family : 'Fjalla One' , sans-serif;
+	display : inline;
 	
 }
 
@@ -246,12 +247,12 @@ body
 	display : flex;
 	padding : 50px 30px;
 	background-color : #fff;
-	border-style : solid;
 	border-radius: 10px;
 	margin-right : 5%;
 	box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
 	align-items : center;
 	justify-content : center;
+	flex-direction : column;
 }
 
 .btn-contact-content
