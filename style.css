@@ -308,6 +308,7 @@ body
 }
 .cpyright-content h1
 {
+	text-align : center;
 	color : white;
 	text-transform : uppercase;
 }
