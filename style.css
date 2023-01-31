@@ -236,7 +236,7 @@ body
 .main
 {
 	display : flex;
-	justifiy-content : center;
+	justify-content : center;
 	align-items : center;
 }
 
