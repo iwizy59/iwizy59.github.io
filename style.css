@@ -258,6 +258,10 @@ body
 	
 }
 
+.btn-contact i:hover
+{
+	translateY(0);
+}
 .btn-contact span
 {
 	display : inline;
