@@ -133,18 +133,9 @@ body
 	display : flex;
 }
 
-.col-gauche
-{
-	position : relative;
-	padding-left : 15%;
-	padding-right : 10%;
-}
 
-.col-droite
-{
-	position : relative;
-	padding-right : 15%;
-}
+
+
 
 .aproposc
 {
