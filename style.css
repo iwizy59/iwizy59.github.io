@@ -80,9 +80,14 @@ p
 	text-align : center;
 	text-decoration : underline ;
 	font-size : 30px;
-	align: center;
 	
 	
+}
+.div_titre
+{
+	display : flex;
+	justify-content : center;
+	align-items : center;
 }
 .homepage
 {
