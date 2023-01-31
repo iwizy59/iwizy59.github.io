@@ -178,13 +178,13 @@ body
 	background-color : #000016;
 }
 
-#competences p
+.skill-content p
 {
 	color : white;
 	font-size : 25px;
 }
 
-#competences span
+.skill-content span
 {
 	color : white;
 	font-size : 25px;
