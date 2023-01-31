@@ -295,12 +295,10 @@ body
 	background-color : #000016;
 	font-size : 25px;
 	margin-top : 5%;
-}
-.cpyright-content
-{
 	display : grid;
 	place-items : center;
 }
+
 .cpyright-content span
 {
 	color : white;
