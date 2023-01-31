@@ -274,6 +274,7 @@ body
 #contact .main
 {
 	display : flex;
+	justify-content : space-between;
 }
 #competences .main
 {
