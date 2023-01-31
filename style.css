@@ -90,7 +90,7 @@ p
 {
 	display : flex;	
 	background : url(photo_bureau.jpeg)no-repeat;
-	background-size : 100%;
+	background-size : contain;
 	max-width : 100%;
 	max-height : 100%;
 
