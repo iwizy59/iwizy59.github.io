@@ -241,6 +241,7 @@ body
 }
 
 .btn-contact{
+	display : flex;
 	padding : 50px 30px;
 	background-color : #fff;
 	border-radius: 10px;
