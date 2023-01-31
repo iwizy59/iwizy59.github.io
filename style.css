@@ -241,11 +241,9 @@ body
 }
 
 .btn-contact{
-	display : flex;
 	padding : 50px 30px;
 	background-color : #fff;
 	border-radius: 10px;
-	margin-right : 5%;
 	box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
 	align-items : center;
 	justify-content : center;
