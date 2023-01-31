@@ -244,7 +244,9 @@ body
 
 .main
 {
-	display : flex;
+	display : grid;
+	place-items : center;
+	gap : 5%;
 }
 
 .btn-contact{
